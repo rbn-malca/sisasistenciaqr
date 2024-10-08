@@ -1,10 +1,11 @@
 const products = [
-    {
-        name: "QR Pro Scanner",
-        price: 409.99,
-        description: "Escáner de código de barras de escritorio, código QR, certificado Digital europeo, 2D",
-        image: "https://www.youtube.com/watch?v=xs-8jOXLKqE"
-    },
+   {
+    name: "QR Pro Scanner",
+    price: 409.99,
+    description: "Escáner de código de barras de escritorio, código QR, certificado Digital europeo, 2D",
+    image: "https://example.com/image_of_qr_pro_scanner.png",
+    video: "https://www.youtube.com/watch?v=xs-8jOXLKqE"
+},
     {
         name: "QR Pocket Reader",
         price: 359.99,
