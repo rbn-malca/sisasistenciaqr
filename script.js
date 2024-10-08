@@ -10,7 +10,7 @@ const products = [
         name: "QR Pocket Reader",
         price: 359.99,
         description: "Lector de códigos QR compacto y portátil, perfecto para uso móvil.",
-        image: "https://m.media-amazon.com/images/I/51eU+Iy7b5L._AC_SX466_.jpg"
+        image: "https://drive.google.com/file/d/1aXy3YUdzkpIX15KOIcrrujsEg8Pb6BVJ/view?usp=drive_link"
     }
     ,
     {
