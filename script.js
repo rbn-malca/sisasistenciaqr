@@ -5,15 +5,14 @@ const products = [
     description: "Escáner de código de barras de escritorio, código QR, certificado Digital europeo, 2D",
     image: "https://example.com/image_of_qr_pro_scanner.png",
     video: "https://www.youtube.com/watch?v=xs-8jOXLKqE"
-},
-    {
+} },
+   {
         name: "QR Pocket Reader",
         price: 108.99,
         description: "NETUM-escáner de código de barras 2D QR de escritorio, lector de código de barras grande, USB, omnidireccional, manos libres A5, pantalla QR 1D",
         image: " image: "https://drive.google.com/file/d/1Niy4s_nhdlH42pLPNeS4PbNy1ri9rjO-/view?usp=drive_link",
         image: "https://drive.google.com/file/d/1aXy3YUdzkpIX15KOIcrrujsEg8Pb6BVJ/view?usp=drive_link"
-    }
-    ,
+    },
     {
         name: "QR Industrial Scanner",
         price: 1399.99,
