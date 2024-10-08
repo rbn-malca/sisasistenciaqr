@@ -23,18 +23,6 @@ const products = [
         price: 1399.99,
         description: "Escáner robusto diseñado para entornos industriales con protección IP65.",
         image: "https://m.media-amazon.com/images/I/51eU+Iy7b5L._AC_SX466_.jpg?height=200&width=200"
-    },
-    {
-        name: "QR Industrial Scanner",
-        price: 1399.99,
-        description: "Escáner robusto diseñado para entornos industriales con protección IP65.",
-        image: "https://m.media-amazon.com/images/I/51eU+Iy7b5L._AC_SX466_.jpg?height=200&width=200"
-    },
-    {
-        name: "QR Industrial Scanner",
-        price: 1399.99,
-        description: "Escáner robusto diseñado para entornos industriales con protección IP65.",
-        image: "https://m.media-amazon.com/images/I/51eU+Iy7b5L._AC_SX466_.jpg?height=200&width=200"
     }
 ];
 
