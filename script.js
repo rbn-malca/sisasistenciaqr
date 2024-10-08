@@ -1,9 +1,9 @@
 const products = [
     {
         name: "QR Pro Scanner",
-        price: 799.99,
-        description: "Escáner profesional de códigos QR con alta velocidad de lectura y conectividad Bluetooth.",
-        image: "https://m.media-amazon.com/images/I/51eU+Iy7b5L._AC_SX466_.jpg"
+        price: 409.99,
+        description: "Escáner de código de barras de escritorio, código QR, certificado Digital europeo, 2D",
+        image: "https://www.youtube.com/watch?v=xs-8jOXLKqE"
     },
     {
         name: "QR Pocket Reader",
