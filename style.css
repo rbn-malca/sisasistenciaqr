@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+header {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a {
+    margin-left: 1rem;
+    text-decoration: none;
+    color: #333;
+}
+main {
+    flex: 1;
+}
+.hero {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 4rem 2rem;
+}
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+.hero p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+.btn {
+    background-color: #fff;
+    color: #000;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.products {
+    padding: 4rem 2rem;
+    background-color: #f8f9fa;
+}
+.products h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+.product-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+.product-card h3 {
+    margin: 0 0 0.5rem 0;
+}
+.product-card p {
+    margin: 0 0 1rem 0;
+}
+.product-card .price {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.product-card button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+    border-radius: 4px;
+}
+footer {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    text-align: center;
+}
