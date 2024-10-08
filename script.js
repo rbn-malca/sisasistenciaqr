@@ -10,6 +10,7 @@ const products = [
         name: "QR Pocket Reader",
         price: 108.99,
         description: "NETUM-escáner de código de barras 2D QR de escritorio, lector de código de barras grande, USB, omnidireccional, manos libres A5, pantalla QR 1D",
+        image: " image: "https://drive.google.com/file/d/1Niy4s_nhdlH42pLPNeS4PbNy1ri9rjO-/view?usp=drive_link",
         image: "https://drive.google.com/file/d/1aXy3YUdzkpIX15KOIcrrujsEg8Pb6BVJ/view?usp=drive_link"
     }
     ,
